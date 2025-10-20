@@ -2,4 +2,4 @@
 # регистр букв учитывайте.
 
 strings = ['Б', 'А', 'б', 'а', 'Аб', 'АБ']
-print(sorted(strings))
+print(sorted(strings, key = lambda string: string[0]))
