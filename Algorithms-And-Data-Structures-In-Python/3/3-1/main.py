@@ -1,3 +1,5 @@
+# Определить, является ли число n простым.
+
 def IsPrime(number):
     if number == 1:
         return False
