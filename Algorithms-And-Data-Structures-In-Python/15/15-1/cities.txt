@@ -1,0 +1,6 @@
+Moscow 13274285
+Los-Angeles 3898747 
+Tokyo 37115000
+Saint-Petersburg 5652922
+New-York 8478072
+Paris 2113705
