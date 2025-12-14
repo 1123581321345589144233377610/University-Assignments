@@ -1,0 +1,6 @@
+2023-12-14: 1200: purchase
+2023-12-10: 50: subscription
+2023-11-25: 1000000: credit
+2023-11-10: 50: subscription
+2023-10-18: 5000:  purchase
+2023-10-10: 50: subscription
